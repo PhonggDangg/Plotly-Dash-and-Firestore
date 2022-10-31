@@ -1,17 +1,10 @@
 # Install dash: pip install dash
-# Học thêm tại: https://dash.plotly.com/
-
 # Install bootstrap: import dash_bootstrap_components as dbc
-# Học thêm tại: https://dash-bootstrap-components.opensource.faculty.ai/
-# Học thêm bootstrap tại: https://getbootstrap.com/docs/5.0/components/card/
-
-# Run this app with `python official_lab_v2.py` and
-
 # visit http://127.0.0.1:8050/ in your web browser.
 
 # BẤM CTRL '+' C ĐỂ TẮT APP ĐANG CHẠY
 # import pathlib #Not Remove
-#tesst
+
 import dash_bootstrap_components as dbc
 import firebase_admin
 import pandas as pd
